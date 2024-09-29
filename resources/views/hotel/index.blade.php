@@ -25,7 +25,7 @@
 	          <div class="row no-gutters slider-text align-items-center justify-content-end">
 	          <div class="col-md-6 ftco-animate">
 	          	<div class="text">
-	          		<h2>Harbor Lights Hotel &amp; Resort</h2>
+	          		<h2>Akway Beragala by Secret Leisure</h2>
 		            <h1 class="mb-3">It feels like staying in your own home.</h1>
 	            </div>
 	          </div>
@@ -114,7 +114,7 @@
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
-          	<span class="subheading">Welcome to Harbor Lights Hotel</span>
+          	<span class="subheading">Welcome to Akway Beragala by Secret Leisure</span>
             <h2 class="mb-4">You'll Never Want To Leave</h2>
           </div>
         </div>  
@@ -163,7 +163,7 @@
               	</div>
               </div>
               <div class="media-body">
-                <h3 class="heading mb-3">Suits &amp; SPA</h3>
+                <h3 class="heading mb-3">Amazing View</h3>
               </div>
             </div>      
           </div>
@@ -192,11 +192,13 @@
 					</div>
 					<div class="col-md-5 wrap-about pb-md-3 ftco-animate pr-md-5 pb-md-5 pt-md-4">
 	          <div class="heading-section mb-4 my-5 my-md-0">
-	          	<span class="subheading">About Harbor Lights Hotel</span>
-	            <h2 class="mb-4">Harbor Lights Hotel the Most Recommended Hotel All Over the World</h2>
+	          	<span class="subheading">About Akway Beragala</span>
+	            <h2 class="mb-4">Akway Beragala by Secret Leisure</h2>
 	          </div>
-	          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-	          <p><a href="#" class="btn btn-secondary rounded">Reserve Your Room Now</a></p>
+	          <p>Situated in Beragala, 34 km from Demodara Nine Arch Bridge, Akway Beragala by Secret Leisure features accommodation with a garden, free private parking, a terrace and a restaurant. With free WiFi, this 3-star hotel offers room service and a 24-hour front desk. Guests can have a drink at the bar.
+				Breakfast is available each morning, and includes buffet, à la carte and continental options.
+				Horton Plains National Park is 44 km from the hotel, while Hakgala Botanical Garden is 46 km from the property. The nearest airport is Castlereigh Reservoir Seaplane Base Airport, 73 km from Akway Beragala by Secret Leisure.</p>
+	          {{-- <p><a href="#" class="btn btn-secondary rounded">Reserve Your Room Now</a></p> --}}
 					</div>
 				</div>
 			</div>
@@ -218,14 +220,15 @@
 	              <div class="item">
 	                <div class="testimony-wrap pb-4">
 	                  <div class="text">
-	                    <p class="mb-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+	                    <p class="mb-4">We loved the view and the experience we had there. Their pool was good. Activities the hotel offered that was close by.
+							Will also recommend going to the 2nd biggest waterfall, really good experience!</p>
 	                  </div>
 	                  <div class="d-flex">
 		                  <div class="user-img" style="background-image: url(images/person_1.jpg)">
 		                  </div>
 		                  <div class="pos ml-3">
-		                  	<p class="name">Gerald Hodson</p>
-		                    <span class="position">Businessman</span>
+		                  	<p class="name">Eranga Gunarathna</p>
+		                    <span class="position">Sri Lanka</span>
 		                  </div>
 		                </div>
 	                </div>
@@ -239,8 +242,8 @@
 		                  <div class="user-img" style="background-image: url(images/person_2.jpg)">
 		                  </div>
 		                  <div class="pos ml-3">
-		                  	<p class="name">Gerald Hodson</p>
-		                    <span class="position">Businessman</span>
+		                  	<p class="name">Sam Mihindu</p>
+		                    <span class="position">Australia</span>
 		                  </div>
 		                </div>
 	                </div>
@@ -263,14 +266,15 @@
 	              <div class="item">
 	                <div class="testimony-wrap pb-4">
 	                  <div class="text">
-	                    <p class="mb-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+	                    <p class="mb-4">This place is special. Extremely clean, just as per the photos. The view is nothing less than spectacular, as was the food and the hospitality. The owners of this place couldn’t have been nicer or more helpful. It’s a real gem and a must stay experience. Thank you both for a lovely stay. We would love to come and stay again.
+						</p>
 	                  </div>
 	                  <div class="d-flex">
 		                  <div class="user-img" style="background-image: url(images/person_4.jpg)">
 		                  </div>
 		                  <div class="pos ml-3">
-		                  	<p class="name">Gerald Hodson</p>
-		                    <span class="position">Businessman</span>
+		                  	<p class="name">Rob</p>
+		                    <span class="position">United Kingdom</span>
 		                  </div>
 		                </div>
 	                </div>
@@ -286,8 +290,8 @@
     	<div class="container-fluid px-0">
     		<div class="row no-gutters justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
-          	<span class="subheading">Harbor Lights Rooms</span>
-            <h2 class="mb-4">Hotel Master's Rooms</h2>
+          	<span class="subheading">Akway Beragala by Secret Leisure Rooms</span>
+            <h2 class="mb-4">Hotel Rooms</h2>
           </div>
         </div>  
     		<div class="row no-gutters">
@@ -380,7 +384,7 @@
 		
 
 		
-		<section class="ftco-section ftco-menu bg-light">
+		{{-- <section class="ftco-section ftco-menu bg-light">
 			<div class="container-fluid px-md-4">
 				<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
@@ -478,7 +482,7 @@
         	</div>
         </div>
 			</div>
-		</section>
+		</section> --}}
 
 
     <section class="ftco-section">
