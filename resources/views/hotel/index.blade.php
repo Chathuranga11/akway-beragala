@@ -35,7 +35,7 @@
 	    </section>
 	  </div>
 
-    <section class="ftco-booking ftco-section ftco-no-pt ftco-no-pb">
+    {{-- <section class="ftco-booking ftco-section ftco-no-pt ftco-no-pb">
     	<div class="container">
     		<div class="row no-gutters">
     			<div class="col-lg-12">
@@ -107,7 +107,7 @@
 	    		</div>
     		</div>
     	</div>
-    </section>
+    </section> --}}
 
 
 		<section class="ftco-section">
@@ -251,14 +251,14 @@
 	              <div class="item">
 	                <div class="testimony-wrap pb-4">
 	                  <div class="text">
-	                    <p class="mb-4">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+	                    <p class="mb-4">A true secret. Must visit for the view, for a calming and relaxing experience.</p>
 	                  </div>
 	                  <div class="d-flex">
 		                  <div class="user-img" style="background-image: url(images/person_3.jpg)">
 		                  </div>
 		                  <div class="pos ml-3">
-		                  	<p class="name">Gerald Hodson</p>
-		                    <span class="position">Businessman</span>
+		                  	<p class="name">Ahmed</p>
+		                    <span class="position">Maldives</span>
 		                  </div>
 		                </div>
 	                </div>
@@ -286,12 +286,12 @@
       </div>
     </section>
 
-    <section class="ftco-section ftco-no-pb ftco-room">
+    {{-- <section class="ftco-section ftco-no-pb ftco-room">
     	<div class="container-fluid px-0">
     		<div class="row no-gutters justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
           	<span class="subheading">Akway Beragala by Secret Leisure Rooms</span>
-            <h2 class="mb-4">Hotel Rooms</h2>
+            <h2 class="mb-4">King Room with Mountain View</h2>
           </div>
         </div>  
     		<div class="row no-gutters">
@@ -302,7 +302,7 @@
     						<div class="text p-4 text-center">
     							<p class="star mb-0"><span class="ion-ios-star"></span><span class="ion-ios-star"></span><span class="ion-ios-star"></span><span class="ion-ios-star"></span><span class="ion-ios-star"></span></p>
     							<p class="mb-0"><span class="price mr-1">$120.00</span> <span class="per">per night</span></p>
-	    						<h3 class="mb-3"><a href="rooms.html">King Room</a></h3>
+	    						<h3 class="mb-3"><a href="rooms.html">Room Only</a></h3>
 	    						<p class="pt-1"><a href="room-single.html" class="btn-custom px-3 py-2 rounded">View Details <span class="icon-long-arrow-right"></span></a></p>
     						</div>
     					</div>
@@ -377,7 +377,7 @@
     			</div>
     		</div>
     	</div>
-    </section>
+    </section> --}}
 
 
 		
@@ -500,11 +500,11 @@
               </a>
               <div class="text mt-3 text-center">
               	<div class="meta mb-2">
-                  <div><a href="#">Oct. 30, 2019</a></div>
+                  {{-- <div><a href="#">Oct. 30, 2019</a></div>
                   <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div> --}}
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">Join us for an unforgettable evening where flavors meet the magic of the night!</a></h3>
               </div>
             </div>
           </div>
@@ -514,11 +514,11 @@
               </a>
               <div class="text mt-3 text-center">
               	<div class="meta mb-2">
-                  <div><a href="#">Oct. 30, 2019</a></div>
+                  {{-- <div><a href="#">Oct. 30, 2019</a></div>
                   <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div> --}}
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">First, our harvest fills the kitchen with fresh goodness, and the extra bounty heads to the local market. A true taste of homegrown abundance!</a></h3>
               </div>
             </div>
           </div>
@@ -528,11 +528,12 @@
               </a>
               <div class="text mt-3 text-center">
               	<div class="meta mb-2">
-                  <div><a href="#">Oct. 30, 2019</a></div>
+                  {{-- <div><a href="#">Oct. 30, 2019</a></div>
                   <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div> --}}
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">Every step brings you closer to the heart of the hills, where serenity meets adventure.
+					Walk into pure nature and embrace the wild beauty on our unforgettable waterfall trail. 🌿💧</a></h3>
               </div>
             </div>
           </div>
